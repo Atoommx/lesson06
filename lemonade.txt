@@ -2,5 +2,6 @@ Limonata tarifi
 Limon
 Su
 Nane
-Seker
+Bal
+Conflict
 
